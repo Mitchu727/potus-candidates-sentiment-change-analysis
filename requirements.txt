@@ -1,0 +1,10 @@
+pandas
+nltk
+matplotlib
+transformers
+numpy
+torch
+textblob
+gensim
+scikit-learn
+joblib

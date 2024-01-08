@@ -1,0 +1,6 @@
+/data/kawintiranon-stance-detection/*
+/data/US Election 2020 Tweets/*
+/models/*
+/cache/*
+*/.ipynb_checkpoints
+.idea
